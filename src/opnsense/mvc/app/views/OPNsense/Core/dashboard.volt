@@ -81,4 +81,5 @@ $( document ).ready(function() {
     widgetManager.initialize();
 });
 </script>
+<h1 class="page-title">yhgdysgfsdg</h1>
 <div class="grid-stack"></div>
